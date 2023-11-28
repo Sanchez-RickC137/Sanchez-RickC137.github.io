@@ -5,7 +5,7 @@ Large-Map
 
 -   **Class: CSCI315 - Data Structure Analysis** 
 -   **Grade: 100** 
--   **Language(s): c++** 
+-   **Language(s): C++** 
 -   **Source Code Repository:** [Large-Map](https://github.com/Sanchez-RickC137/Large-Map)  
     (Please [email me](mailto:jrpike@csustudent.net?subject=GitHub%20Access) to request access.)
 
@@ -45,22 +45,23 @@ make dataHow
 make run-howMany dataHow
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
-
 ## UI Design
+There is very little user input that is required for this program. If the user desires to change the performance parameters of the program, they can do so within the main function.
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+![screenshot](images/LargeMap-Perform.png)  
+Fig 1. Performance adjustments
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot]()  
+Fig 2. Sample get() peformance data
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot]()  
+Fig 3. Sample get() peformance data plot
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot]()  
+Fig 4. Sample howMany() peformance
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot]()  
+Fig 4. Sample howMany() peformance plot
 
 ## 3. Additional Considerations
 
