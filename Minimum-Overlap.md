@@ -15,7 +15,7 @@ Minimum-Overlap
 
 - 
 ```bash
-make run-get
+
 ```
 
 - 
