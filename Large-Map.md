@@ -73,8 +73,6 @@ Fig 4. Sample howMany() peformance plot
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The functionality of the program to the user is limited in that it simply tests the performance of functions in the Map class, however the Map class itself can utilized within another program to fulfill its intended purpose of being a highly efficient data structure for storing and searching based on key-value pairs.
 
 [Back to Portfolio](./)
