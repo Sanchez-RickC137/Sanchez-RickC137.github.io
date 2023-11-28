@@ -55,19 +55,19 @@ or multiple covers can be manually input as well
 ## UI Design
 The program is command line based and requires only initial inputs from the user to determine data sets to reference and what covers to utilize. 
 
-![screenshot](images/min-input-auto.png)  
+![](images/min-input-auto.png)  
 Fig 1. Compiling and running the program with predetermined covers
 
-![screenshot](images/min-input-manaul.png)  
+![](images/min-input-manaul.png)  
 Fig 2. Compiling and running the program with user provided covers
 
-![screenshot](images/min-output.png)
+![](images/min-output.png)
 Fig 3. Program Output
 
-![screenshot](/images/min-make-error.png)  
+![](/images/min-make-error.png)  
 Fig 4. Error for referencing an unknown make command for the program.
 
-![screenshot](/images/min-run-error.png)  
+![](/images/min-run-error.png)  
 Fig 4. Error in the syntax for manually inputing covers with the program.
 
 ## 3. Additional Considerations
