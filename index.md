@@ -27,7 +27,7 @@ Programming Projects
 ![Permutation-Mathematics](images/Permutation.png)
 
 ---
-### [Maximum-Flow | Algorithms](https://github.com/Sanchez-RickC137/Maximum-Flow)
+### [Maximum-Flow | CSCI 415](https://github.com/Sanchez-RickC137/Maximum-Flow)
 
 ![Maximum-Flow](images/MaxFlow.png)
 
