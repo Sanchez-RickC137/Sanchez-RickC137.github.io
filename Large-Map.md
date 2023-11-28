@@ -59,16 +59,16 @@ There is very little user input that is required for this program. If the user d
 ![screenshot](images/LargeMap-Perform.png)  
 Fig 1. Performance adjustments
 
-![screenshot]()  
+![screenshot](images/getData.png)  
 Fig 2. Sample get() peformance data
 
-![screenshot]()  
+![screenshot](images/get.png)  
 Fig 3. Sample get() peformance data plot
 
-![screenshot]()  
+![screenshot](images/howManyData.png)  
 Fig 4. Sample howMany() peformance
 
-![screenshot]()  
+![screenshot](images/howMany.png)  
 Fig 4. Sample howMany() peformance plot
 
 ## 3. Additional Considerations
