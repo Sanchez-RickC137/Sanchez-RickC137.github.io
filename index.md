@@ -7,60 +7,71 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Large-Map | CSCI 315](https://github.com/Sanchez-RickC137/Large-Map)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 2 Title | CSCI 315](project1)
-
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Large-Map](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Minimum-Overlap | CSCI 315](https://github.com/Sanchez-RickC137/Minimum-Overlap)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Minimum-Overlap](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Race-Registration-App | CSCI 334](https://github.com/Sanchez-RickC137/Race-Registration-App)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Race-Registration-App](images/dummy_thumbnail.jpg)
+
+---
+### [Permutation-Mathematics | CSCI 415](https://github.com/Sanchez-RickC137/Permutation-Mathematics)
+
+![Permutation-Mathematics](images/dummy_thumbnail.jpg)
+
+---
+### [Maximum-Flow | Algorithms](https://github.com/Sanchez-RickC137/Maximum-Flow)
+
+![Maximum-Flow](images/dummy_thumbnail.jpg)
 
 ---
 
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Copyright and Licenses](https://github.com/Sanchez-RickC137/Senior-Portfolio/blob/main/Ethics%20Papers/Copyright%20and%20Licenses.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Course: CSCI315 - Data Structure Analysis**  
+-   **Grade: 100**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Software Testing & Reliability](https://github.com/Sanchez-RickC137/Senior-Portfolio/blob/main/Ethics%20Papers/Software%20Testing%20%26%20Reliability.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI315 - Data Structure Analysis** 
+-   **Grade: 100**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethical Dilemmas in Cybersecurity](https://github.com/Sanchez-RickC137/Senior-Portfolio/blob/main/Ethics%20Papers/Ethical%20Dilemmas%20in%20Cybersecurity.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI352: Cyber Defense** 
+-   **Grade: 100**
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [AWF Nonprofit Website Presentation](https://youtu.be/hcZogURE6EU/.)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI334 - User-Interface Programming** 
+- **Grade: 100**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Security Presentation](https://youtu.be/17P3c9-l7XY/.)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI301 - Survey of Scripting Languages** 
+- **Grade: 100**
+
+
+### [Wi-Fi Security and Encryption](https://github.com/Sanchez-RickC137/Senior-Portfolio/blob/main/Presentations/Wi-FI%20Security%20and%20Encryption.pdf)
+
+- **Class: CSCI352: Cyber Defense** 
+- **Grade: 100**
 
 ---
 
