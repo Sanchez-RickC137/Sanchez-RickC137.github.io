@@ -48,8 +48,8 @@ Fig 1. Home Page
 * About Us
    - Static-Page: about.html.erb
    - Accessed on the navigation bar at the top of every page
- ![screenshot](images/AWF-nav.png)  
-Fig 2. Navigation
+    ![screenshot](images/AWF-nav.png)  
+    Fig 2. Navigation
 
 * Events
    - Static-Page: events.html.erb
@@ -82,11 +82,11 @@ Fig 2. Navigation
    - Serves as the initial sign-up page for new users
    - Reached by clicking the registration button for the event or at login screen.
    - Information is validated on submission
-![screenshot](images/AWF-login.png)  
-Fig 3. Login/Signup
+    ![screenshot](images/AWF-login.png)  
+    Fig 3. Login/Signup
 
-![screenshot](images/AWF-reg.png)  
-Fig 3. Login/Signup 
+    ![screenshot](images/AWF-reg.png)  
+    Fig 4. Registration 
 
 * Edit users
    - User page: edit.html.erb
@@ -104,19 +104,6 @@ Fig 3. Login/Signup
    - Serves as the administrator page to view all current registered users and link to edit them as neccessary.
    - Information is formatted in a table.
 
-
-
-
-
-
-
-
-
-![screenshot]()  
-Fig 4. 
-
-![screenshot]()  
-Fig 5. 
 
 ## 3. Additional Considerations
 
