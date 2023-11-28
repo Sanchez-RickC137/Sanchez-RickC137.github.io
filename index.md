@@ -36,17 +36,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Copyright and Licenses](https://github.com/Sanchez-RickC137/Senior-Portfolio/blob/main/Ethics%20Papers/Copyright%20and%20Licenses.pdf)
+### [Copyright and Licenses](https://github.com/Sanchez-RickC137/Sanchez-RickC137.github.io/blob/master/pdf/Copyright%20and%20Licenses.pdf)
 
 -   **Course: CSCI315 - Data Structure Analysis**  
 -   **Grade: 100**
 
-### [Software Testing & Reliability](https://github.com/Sanchez-RickC137/Senior-Portfolio/blob/main/Ethics%20Papers/Software%20Testing%20%26%20Reliability.pdf)
+### [Software Testing & Reliability](https://github.com/Sanchez-RickC137/Sanchez-RickC137.github.io/blob/master/pdf/Software%20Testing%20%26%20Reliability.pdf)
 
 -   **Class: CSCI315 - Data Structure Analysis** 
 -   **Grade: 100**
 
-### [Ethical Dilemmas in Cybersecurity](https://github.com/Sanchez-RickC137/Senior-Portfolio/blob/main/Ethics%20Papers/Ethical%20Dilemmas%20in%20Cybersecurity.pdf)
+### [Ethical Dilemmas in Cybersecurity](https://github.com/Sanchez-RickC137/Sanchez-RickC137.github.io/blob/master/pdf/Ethical%20Dilemmas%20in%20Cybersecurity.pdf)
 
 -   **Class: CSCI352: Cyber Defense** 
 -   **Grade: 100**
@@ -68,7 +68,7 @@ Presentations
 - **Grade: 100**
 
 
-### [Wi-Fi Security and Encryption](https://github.com/Sanchez-RickC137/Senior-Portfolio/blob/main/Presentations/Wi-FI%20Security%20and%20Encryption.pdf)
+### [Wi-Fi Security and Encryption](https://github.com/Sanchez-RickC137/Sanchez-RickC137.github.io/blob/master/pdf/Wi-FI%20Security%20and%20Encryption.pdf)
 
 - **Class: CSCI352: Cyber Defense** 
 - **Grade: 100**
