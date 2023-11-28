@@ -3,7 +3,7 @@
 
 @import "jekyll-theme-minimal";
 
-h3 { 
+.heading3 { 
   color: inherit;
   text-decoration: none;
   background:
@@ -24,7 +24,7 @@ h3 {
   transition: background-size 400ms;
 }
 
-h3:hover {
+.heading3:hover {
   background-size: 0 3px, 100% 3px;
 }
 
