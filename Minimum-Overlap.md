@@ -55,20 +55,25 @@ or multiple covers can be manually input as well
 ## UI Design
 The program is command line based and requires only initial inputs from the user to determine data sets to reference and what covers to utilize. 
 
+
 ![](images/min-input-auto.png)  
 Fig 1. Compiling and running the program with predetermined covers
+
 
 ![](images/min-input-manual.png)  
 Fig 2. Compiling and running the program with user provided covers
 
+
 ![](images/min-output.png)
 Fig 3. Program Output
+
 
 ![](/images/min-make-error.png)  
 Fig 4. Error for referencing an unknown make command for the program.
 
+
 ![](/images/min-run-error.png)  
-Fig 4. Error in the syntax for manually inputing covers with the program.
+Fig 5. Error in the syntax for manually inputing covers with the program.
 
 ## 3. Additional Considerations
 This program is purpose built for the project that it covered however it deals with the common computer science minimum overlap problem and can be refactored to meet the needs of the user. The current input and user interface is limited but could easily be changed to meet a number of needs.
