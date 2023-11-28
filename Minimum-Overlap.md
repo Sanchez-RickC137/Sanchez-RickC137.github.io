@@ -58,7 +58,7 @@ The program is command line based and requires only initial inputs from the user
 ![](images/min-input-auto.png)  
 Fig 1. Compiling and running the program with predetermined covers
 
-![](images/min-input-manaul.png)  
+![](images/min-input-manual.png)  
 Fig 2. Compiling and running the program with user provided covers
 
 ![](images/min-output.png)
