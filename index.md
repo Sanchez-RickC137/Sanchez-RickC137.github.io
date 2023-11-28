@@ -9,27 +9,27 @@ Programming Projects
 ---
 ### [Large-Map | CSCI 315](https://github.com/Sanchez-RickC137/Large-Map)
 
-![Large-Map(images/Map.jpg)](https://github.com/Sanchez-RickC137/Large-Map)
+![Large-Map](images/Map.jpg)(https://github.com/Sanchez-RickC137/Large-Map)
 
 ---
 ### [Minimum-Overlap | CSCI 315](https://github.com/Sanchez-RickC137/Minimum-Overlap)
 
-![Minimum-Overlap(images/MinOverlap.png)](https://github.com/Sanchez-RickC137/Minimum-Overlap)
+![Minimum-Overlap](images/MinOverlap.png)(https://github.com/Sanchez-RickC137/Minimum-Overlap)
 
 ---
 ### [Race-Registration-App | CSCI 334](https://github.com/Sanchez-RickC137/Race-Registration-App)
 
-![Race-Registration-App(images/AWF_1.png)](https://github.com/Sanchez-RickC137/Race-Registration-App)
+![Race-Registration-App](images/AWF_1.png)(https://github.com/Sanchez-RickC137/Race-Registration-App)
 
 ---
 ### [Permutation-Mathematics | CSCI 415](https://github.com/Sanchez-RickC137/Permutation-Mathematics)
 
-![Permutation-Mathematics(images/Permutation.png)](https://github.com/Sanchez-RickC137/Permutation-Mathematics)
+![Permutation-Mathematics](images/Permutation.png)(https://github.com/Sanchez-RickC137/Permutation-Mathematics)
 
 ---
 ### [Maximum-Flow | CSCI 415](https://github.com/Sanchez-RickC137/Maximum-Flow)
 
-![Maximum-Flow(images/MaxFlow.png)](https://github.com/Sanchez-RickC137/Maximum-Flow)
+![Maximum-Flow](images/MaxFlow.png)(https://github.com/Sanchez-RickC137/Maximum-Flow)
 
 ---
 
