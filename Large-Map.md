@@ -15,6 +15,7 @@ Solving the common Computer Science problem of storing and searching based on ke
 
 ## How to compile and run the program
 
+### Compile / Run
 - Compile and run the performance analyis of the get() function for the data structure
 ```bash
 make run-get
@@ -43,6 +44,13 @@ make dataHow
 - Compile, performance analyis and plot generation
 ```bash
 make run-howMany dataHow
+```
+### Testing
+- The following test can be run to test the functionality of the functions within the Map class
+```bash
+make add-test
+make howMany-test
+make remove-test
 ```
 
 ## UI Design
