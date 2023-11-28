@@ -84,7 +84,6 @@ Fig 1. Home Page
    - Information is validated on submission\
     ![screenshot](images/AWF-login.png)  
     Fig 3. Login/Signup
-
     ![screenshot](images/AWF-reg.png)  
     Fig 4. Registration 
 
