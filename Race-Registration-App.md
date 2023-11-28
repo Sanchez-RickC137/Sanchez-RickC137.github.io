@@ -41,13 +41,13 @@ This is a website for a fictitious non-profit, the Animal Welfare Foundation, wh
 * Home
    - Static-Page: home.html.erb
    - Every page of the site with the exception of registering can be accessed from this page
-   - Return to home page by click AWF logo in top left hand corner
+   - Return to home page by click AWF logo in top left hand corner\
 ![screenshot](images/AWF-home.png)  
 Fig 1. Home Page
 
 * About Us
    - Static-Page: about.html.erb
-   - Accessed on the navigation bar at the top of every page
+   - Accessed on the navigation bar at the top of every page\
     ![screenshot](images/AWF-nav.png)  
     Fig 2. Navigation
 
@@ -81,7 +81,7 @@ Fig 1. Home Page
    - User page: new.html.erb
    - Serves as the initial sign-up page for new users
    - Reached by clicking the registration button for the event or at login screen.
-   - Information is validated on submission
+   - Information is validated on submission\
     ![screenshot](images/AWF-login.png)  
     Fig 3. Login/Signup
 
