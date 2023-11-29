@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Large-Map | CSCI 315](https://github.com/Sanchez-RickC137/Large-Map)
+### [Large-Map | CSCI 315](Large-Map.md)
 
-[![Large-Map](images/Map.jpg)](https://github.com/Sanchez-RickC137/Large-Map)
+[![Large-Map](images/Map.jpg)](Large-Map.md)
 
 ---
 ### [Minimum-Overlap | CSCI 315](https://github.com/Sanchez-RickC137/Minimum-Overlap)
