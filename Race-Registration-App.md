@@ -57,23 +57,18 @@ Fig 1. Home Page
    - Serves as a page for access to all current events being held by the organization
 
 * Event 1
-   - Static-Page: event_1.html.erb
    - This serves as 5k specific event page with general information and is the point at which a user can REGISTER for the event
 
 * Event 2
-   - Static-Page: event_2.html.erb
    - This is an additional ficticious event page for the organization.
 
 * Event 3
-   - Static-Page: event_3.html.erb
    - This is an additional ficticious event page for the organization.
 
 * Giving
-   - Static-Page: giving.html.erb
    - Serves as a donation information page and directions on ways to support through giving.
 
 * Volunteering
-   - Static-Page: volunteer.html.erb
    - Serves as a volunteer information and direction page on ways to support through volunteering.
 
 ### Site Layout - Users
@@ -88,23 +83,16 @@ Fig 1. Home Page
     Fig 4. Registration 
 
 * Edit users
-   - User page: edit.html.erb
    - Serves the purpose of editing a user's own information as well as editting another user's information if the current user is an administrator
    - Reached by clicking contact info on the logout / account dropdown or the edit button in the administrator view
    - Administators can assign other registered users as administrators on this page by checking the specified box and submitting
    - Information is validated on submission
 
 * Exclusive Content
-   - User page: show.html.erb
    - Serves as the user home page with more extensive race details. Can only be seen when a user is logged in.
 
 * Administrator Content
-   - User page: index.html.erb
    - Serves as the administrator page to view all current registered users and link to edit them as neccessary.
    - Information is formatted in a table.
-
-
-## 3. Additional Considerations
-
 
 [Back to Portfolio](./)
