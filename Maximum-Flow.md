@@ -64,7 +64,4 @@ Fig 5. File Input
 ![screenshot](images/max-output.png)  
 Fig 6. Output
 
-## 3. Additional Considerations
-
-
 [Back to Portfolio](./)
