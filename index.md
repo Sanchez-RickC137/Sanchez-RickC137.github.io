@@ -7,29 +7,29 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Large-Map | CSCI 315](Large-Map.md)
+### [Large-Map | CSCI 315](https://sanchez-rickc137.github.io/Large-Map.html)
 
-[![Large-Map](images/Map.jpg)](Large-Map.md)
-
----
-### [Minimum-Overlap | CSCI 315](https://github.com/Sanchez-RickC137/Minimum-Overlap)
-
-[![Minimum-Overlap](images/MinOverlap.png)](https://github.com/Sanchez-RickC137/Minimum-Overlap)
+[![Large-Map](images/Map.jpg)](https://sanchez-rickc137.github.io/Large-Map.html)
 
 ---
-### [Race-Registration-App | CSCI 334](https://github.com/Sanchez-RickC137/Race-Registration-App)
+### [Minimum-Overlap | CSCI 315](https://sanchez-rickc137.github.io/Minimum-Overlap.html)
 
-[![Race-Registration-App](images/AWF_1.png)](https://github.com/Sanchez-RickC137/Race-Registration-App)
-
----
-### [Permutation-Mathematics | CSCI 415](https://github.com/Sanchez-RickC137/Permutation-Mathematics)
-
-[![Permutation-Mathematics](images/Permutation.png)](https://github.com/Sanchez-RickC137/Permutation-Mathematics)
+[![Minimum-Overlap](images/MinOverlap.png)](https://sanchez-rickc137.github.io/Minimum-Overlap.html)
 
 ---
-### [Maximum-Flow | CSCI 415](https://github.com/Sanchez-RickC137/Maximum-Flow)
+### [Race-Registration-App | CSCI 334](https://sanchez-rickc137.github.io/Race-Registration-App.html)
 
-[![Maximum-Flow](images/MaxFlow.png)](https://github.com/Sanchez-RickC137/Maximum-Flow)
+[![Race-Registration-App](images/AWF_1.png)](https://sanchez-rickc137.github.io/Race-Registration-App.html)
+
+---
+### [Permutation-Mathematics | CSCI 415](https://sanchez-rickc137.github.io/Permutation-Mathematics.html)
+
+[![Permutation-Mathematics](images/Permutation.png)](https://sanchez-rickc137.github.io/Permutation-Mathematics.html)
+
+---
+### [Maximum-Flow | CSCI 415](https://sanchez-rickc137.github.io/Maximum-Flow.html)
+
+[![Maximum-Flow](images/MaxFlow.png)](https://sanchez-rickc137.github.io/Maximum-Flow.html)
 
 ---
 
