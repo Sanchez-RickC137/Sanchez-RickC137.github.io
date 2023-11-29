@@ -73,7 +73,6 @@ Fig 1. Home Page
 
 ### Site Layout - Users
 * New users
-   - User page: new.html.erb
    - Serves as the initial sign-up page for new users
    - Reached by clicking the registration button for the event or at login screen.
    - Information is validated on submission\
