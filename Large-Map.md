@@ -45,13 +45,6 @@ make dataHow
 ```bash
 make run-howMany dataHow
 ```
-### Testing
-- The following test can be run to test the functionality of the functions within the Map class
-```bash
-make add-test
-make howMany-test
-make remove-test
-```
 
 ## UI Design
 There is very little user input that is required for this program. If the user desires to change the performance parameters of the program, they can do so within the main function.
