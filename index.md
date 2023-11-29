@@ -48,7 +48,7 @@ Ethics Papers
 
 ### [Ethical Dilemmas in Cybersecurity](https://github.com/Sanchez-RickC137/Sanchez-RickC137.github.io/blob/master/pdf/Ethical%20Dilemmas%20in%20Cybersecurity.pdf)
 
--   **Class: CSCI352: Cyber Defense** 
+-   **Class: CSCI352 - Cyber Defense** 
 -   **Grade: 100**
 
 ---
@@ -70,7 +70,7 @@ Presentations
 
 ### [Wi-Fi Security and Encryption](https://github.com/Sanchez-RickC137/Sanchez-RickC137.github.io/blob/master/pdf/Wi-FI%20Security%20and%20Encryption.pdf)
 
-- **Class: CSCI352: Cyber Defense** 
+- **Class: CSCI352 - Cyber Defense** 
 - **Grade: 100**
 
 ---
